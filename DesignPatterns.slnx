@@ -6,4 +6,5 @@
   <Project Path="src/Singleton/Singleton.csproj" />
   <Project Path="src/Observer/Observer.csproj" />
   <Project Path="src/Adapter/Adapter.csproj" />
+  <Project Path="src/Decorator/Decorator.csproj" />
 </Solution>

@@ -12,3 +12,4 @@ Examples of Design Patterns using C#
 | Singleton | Creational | Thread-safe app configuration |
 | Observer | Behavioral | Stock price alerts for investors |
 | Adapter | Structural | Legacy payment gateway integration |
+| Decorator | Structural | Coffee shop orders with toppings |
