@@ -9,3 +9,4 @@ Examples of Design Patterns using C#
 | Chain of Responsibility | Behavioral | Discount calculation chain |
 | Strategy | Behavioral | Swappable payment processing |
 | Factory Method | Creational | Notification creator (email, SMS, push) |
+| Singleton | Creational | Thread-safe app configuration |
