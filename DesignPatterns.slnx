@@ -7,4 +7,5 @@
   <Project Path="src/Observer/Observer.csproj" />
   <Project Path="src/Adapter/Adapter.csproj" />
   <Project Path="src/Decorator/Decorator.csproj" />
+  <Project Path="src/Facade/Facade.csproj" />
 </Solution>
