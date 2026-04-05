@@ -5,4 +5,5 @@
   <Project Path="src/FactoryMethod/FactoryMethod.csproj" />
   <Project Path="src/Singleton/Singleton.csproj" />
   <Project Path="src/Observer/Observer.csproj" />
+  <Project Path="src/Adapter/Adapter.csproj" />
 </Solution>
