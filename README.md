@@ -14,3 +14,4 @@ Examples of Design Patterns using C#
 | Adapter | Structural | Legacy payment gateway integration |
 | Decorator | Structural | Coffee shop orders with toppings |
 | Facade | Structural | Home theater system (one-button movie night) |
+| Command | Behavioral | Restaurant ordering with undo support |
