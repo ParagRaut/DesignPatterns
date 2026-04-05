@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="src/Builder/Builder.csproj" />
   <Project Path="src/ChainOfResponsibility/ChainOfResponsibility.csproj" />
+  <Project Path="src/Strategy/Strategy.csproj" />
 </Solution>
