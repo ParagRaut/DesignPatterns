@@ -8,3 +8,4 @@ Examples of Design Patterns using C#
 | Builder | Creational | Fluent customer builder |
 | Chain of Responsibility | Behavioral | Discount calculation chain |
 | Strategy | Behavioral | Swappable payment processing |
+| Factory Method | Creational | Notification creator (email, SMS, push) |
